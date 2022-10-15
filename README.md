@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Ramos</h1>
-<h3 align="center">A passionate frontend developer from Lima, Perú</h3>
+<h3 align="center">A passionate Frontend/Mobile Developer from Lima, Perú</h3>
 
 - 🔭 I’m currently working on **web and mobile application development**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://devluker.github.io/](https://devluker.github.io/)
 
-- 💬 Ask me about **React,Angular**
+- 💬 Ask me about **React,Angular, Flutter, Dart**
 
 - 📫 How to reach me **luisra.dev@gmail.com**
 
