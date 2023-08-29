@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm Luis Ramos</h1>
-<h3 align="center">A passionate Frontend/Mobile Developer from Lima, Perú</h3>
+<h3 align="center">A passionate about technology. I am currently dedicated to mobile development, but in my free time learning other technologies.</h3>
 
-- 🔭 I’m currently working on **web and mobile application development**
+- 🔭 I am currently working as a **mobile engineer**.
 
-- 🌱 I’m currently learning **NextJS, NestJS, Ionic**
+- 👨‍💻 All of my projects are available at [https://devluker.web.app/]
 
-- 👨‍💻 All of my projects are available at [https://devluker.github.io/](https://devluker.github.io/)
-
-- 💬 Ask me about **React,Angular, Flutter, Dart**
+- 💬 Ask me about: **Flutter, Dart, Android, Kotlin, Compose, Swift, React, Angular**
 
 - 📫 How to reach me **luisra.dev@gmail.com**
 
-- 📄 Know about my experiences [Javascript, React, Redux, Angular, Vue, Flutter, React Native](Javascript, React, Redux, Angular, Vue, Flutter, React Native)
+- 📄 Learn about my experiences: [Flutter, Dart, Android, Kotlin, Compose, Swift, React, Angular, Node, Php]
 
 - ⚡ Fun fact **I think I'm funny, but I really like listening to electronic music, playing moba, and reading documentaries.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devluker06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devluker06" height="30" width="40" /></a>
-<a href="https://fb.com/devluker06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devluker06" height="30" width="40" /></a>
-<a href="https://instagram.com/devluker06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devluker06" height="30" width="40" /></a>
+<a href="https://twitter.com/devluker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devluker06" height="30" width="40" /></a>
+<a href="https://fb.com/lukerdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devluker06" height="30" width="40" /></a>
+<a href="https://instagram.com/lukerdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devluker06" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
